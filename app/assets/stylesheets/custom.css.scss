@@ -1,5 +1,6 @@
 $navbar-default-bg: black;
 
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -31,4 +32,14 @@ $navbar-default-bg: black;
 
 .navbar {
 opacity: .8;  
+}
+
+.mastfoot {
+  text-align: right;
+  background-color: black; 
+  
+}
+
+.inner {
+  color: white;
 }
